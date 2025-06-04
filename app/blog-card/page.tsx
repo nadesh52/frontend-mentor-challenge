@@ -11,7 +11,7 @@ export default function page() {
         <div className="border-secondary-200 w-[327px] desktop:w-[384px] rounded-[20px] border bg-white p-[24px] drop-shadow-[8px_8px_0px_black]">
           <div className="flex w-full flex-col gap-[24px]">
             <Image
-              src="/blog-card/illustration-article.svg"
+              src="illustration-article.svg"
               width={336}
               height={200}
               alt="blog-card"
@@ -31,7 +31,7 @@ export default function page() {
             </div>
             <div className="text-secondary-200 flex flex-row gap-[12px]">
               <Image
-                src="/blog-card/image-avatar.webp"
+                src="image-avatar.webp"
                 height={32}
                 width={32}
                 alt="author"
