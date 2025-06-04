@@ -1,8 +1,21 @@
-1. run command in directory to install
-   change `MY-NEXT-PROJECT` to project name
-```
-npx create-next-app -e https://github.com/nadesh52/nextjs-boilerplate MY-NEXT-PROJECT
-```
-2. in `package.json` file change `name` to new name
-3. delete `.gitkeep` files
-4. done!
+# Frontend Mentor Challenges
+
+This is a solution to the Frontend Mentor challenges.
+
+## Table of contents
+
+- [Challenges List](#challenges-list)
+- [Built with](#built-with)
+
+### Challenges List
+
+| Challenge        | Solution                                                                             | Live Site                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| interactive-card | [github.com/nadesh52/interactive-card](https://github.com/nadesh52/interactive-card) | [nadesh52.github.io/interactive-card](https://nadesh52.github.io/interactive-card) |
+
+### Built with
+
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [tailwindcss](https://tailwindcss.com/) - For styles
